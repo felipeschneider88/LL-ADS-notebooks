@@ -1,3 +1,4 @@
+
 --Join usando el where
 select c.*, u.DisplayName
 from dbo.Comments c, dbo.Users u
