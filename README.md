@@ -15,7 +15,7 @@ Introducción ADS
 * Introducción al lenguaje [Markdown](https://github.com/felipeschneider88/LL-ADS-notebooks/blob/master/notebooks/0%20L%26L%20ADS%20y%20notebooks.ipynb)
 * Notebook [Python](https://github.com/felipeschneider88/LL-ADS-notebooks/blob/master/notebooks/1%20Ejemplo%20Python.ipynb)
 * Notebook [Powershell](https://github.com/felipeschneider88/LL-ADS-notebooks/blob/master/notebooks/2%20Ejemplo%20Powershell.ipynb)
-* Notebook SQL()
+* Notebook SQL [Diagnostico](https://github.com/felipeschneider88/LL-ADS-notebooks/blob/master/notebooks/3.1%20SQL%20Server%202019%20Diagnostic%20Information%20Queries.ipynb) y [prueba de indices](https://github.com/felipeschneider88/LL-ADS-notebooks/blob/master/notebooks/3.2%20Index%20Tunning.ipynb)
 
 
 ## Audiencia
